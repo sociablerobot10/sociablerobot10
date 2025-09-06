@@ -2,6 +2,7 @@
 # 💫 About Me:
 
 I'm a Software Support Professional with a Bachelor's in Information Technology, currently transitioning into Web Development.  I recently graduated from TripleTen's Software Engineering bootcamp.
+
 💻 Learning TypeScript and building web projects.  
 🤝 Open to collaboration on web development projects.
 
