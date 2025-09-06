@@ -1,6 +1,9 @@
 
 # 💫 About Me:
-Software Support Professional Transitioning to Web Development<br>I'm currently learning TypeScript<br>I am looking to collaborate on web dev projects.
+
+I'm a Software Support Professional with a Bachelor's in Information Technology, currently transitioning into Web Development.  I recently graduated from TripleTen's Software Engineering bootcamp.
+💻 Learning TypeScript and building web projects.  
+🤝 Open to collaboration on web development projects.
 
 
 # 💻 Tech Stack:
