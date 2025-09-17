@@ -10,10 +10,13 @@ I'm a Software Support Professional with a Bachelor's in Information Technology,
 Fun fact: During undergrad, I went to 35+ hackathons.
 
 #Projects
+
 NewsExplorer:
 https://github.com/sociablerobot10/newsexplorer-frontend
+
 Around the US: 
 https://github.com/sociablerobot10/se_project_aroundtheus
+
 What to Wear:
 Frontend: https://github.com/sociablerobot10/se_project_react
 Backend:https://github.com/sociablerobot10/se_project_express
