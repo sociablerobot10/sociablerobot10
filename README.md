@@ -9,7 +9,6 @@ I'm a Software Support Professional with a Bachelor's in Information Technology,
 
 Fun fact: During undergrad, I went to 35+ hackathons.
 
-#Projects
 
 
 # Tech Stack:
